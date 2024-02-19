@@ -1,4 +1,4 @@
-# MyChiley
+# MyChiley 🌶️
 Repositori Proyek Web-App Deteksi Penyakit pada Daun Cabai.
 <br> User dapat mengunggah foto daun cabai ke dalam web untuk kemudian dideteksi penyakitnya.
 <br> Sistem akan mendeteksi penyakit apa yang kira-kira diderita oleh daun cabai 
